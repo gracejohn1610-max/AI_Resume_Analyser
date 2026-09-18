@@ -1,2 +1,5 @@
 plotly
 pypdf
+streamlit
+pandas
+python-docx
